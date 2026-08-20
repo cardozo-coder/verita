@@ -1,5 +1,5 @@
 # Verita
-## Apresentação
+## Introdução
 
 O Verita é uma plataforma web de educação e transparência alimentar que tem como objetivo auxiliar consumidores a compreenderem melhor os alimentos que consomem, transformando informações nutricionais complexas em conteúdos simples, acessíveis e úteis para a tomada de decisões alimentares mais conscientes.
 

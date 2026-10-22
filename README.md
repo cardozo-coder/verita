@@ -23,7 +23,7 @@ Diferenciando-se de aplicativos legados de Mobile Health (mHealth) — como *MyF
 * **Algoritmos Interpretativos:** Tradução de valores brutos (gramas de gorduras, miligramas de sódio e presença de aditivos) em diagnósticos visuais simples, explicitando o nível de processamento industrial com base na **Classificação NOVA**.
 * **Sugestões Inteligentes:** Sugestão de alternativas saudáveis e substituições síncronas entre marcas concorrentes.
 * **Interface Humanizada:** Materialização dos preceitos de nutrição comportamental, como o *Comer Intuitivo* e o *Mindful Eating*, aproximando o usuário do conhecimento preventivo e mitigando escolhas alimentares automáticas e prejudiciais.
-* **Módulo de Métricas (GPA):** Integração para acompanhamento e governança das metas e do desempenho geral do projeto acadêmico.
+
 
 ---
 

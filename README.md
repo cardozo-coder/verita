@@ -1,4 +1,5 @@
-<img width="1484" height="541" alt="Verita" src="https://github.com/user-attachments/assets/320d65a3-824b-428d-954e-ebdb42ff9fea" />
+<img width="1600" height="384" alt="WhatsApp Image 2026-10-13 at 11 03 01" src="https://github.com/user-attachments/assets/a5b8405c-4f6a-45ae-8a5d-24e09def6b6c" />
+
 
 
 # VERITA

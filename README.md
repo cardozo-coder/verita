@@ -26,7 +26,7 @@ Diferenciando-se de aplicativos legados de Mobile Health (mHealth) — como *MyF
 
 ---
 
-##  Telas do Projeto
+##  Telas do Projeto (Project screens)
 
 
 * Menu Principal
@@ -52,7 +52,7 @@ Diferenciando-se de aplicativos legados de Mobile Health (mHealth) — como *MyF
 
 ---
 
-##  Justificativa e Fundamentação
+##  Justificativa e Fundamentação (Justification and rationale)
 
 A relevância social e científica do desenvolvimento da plataforma VERITA fundamenta-se na urgente necessidade de democratizar o letramento nutricional. Hoje, a maioria dos alimentos industrializados traz rótulos com tabelas complexas, termos excessivamente técnicos e siglas de aditivos que funcionam como uma barreira linguística e cognitiva para o consumidor leigo. A literatura científica evidencia que os elementos mais consultados nas rotulagens ainda se limitam ao valor calórico e ao açúcar, provando que os dados técnicos tradicionais falham em promover escolhas plenamente conscientes e acabam por favorecer transtornos alimentares e dietas desequilibradas.
 
